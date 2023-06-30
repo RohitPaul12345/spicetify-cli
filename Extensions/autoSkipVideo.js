@@ -1,8 +1,8 @@
-// NAME: Auto Skip Video
-// AUTHOR: khanhas
-// DESCRIPTION: Auto skip video
+/* NAME: Auto Skip Video
+ AUTHOR: khanhas
+ DESCRIPTION: Auto skip video
 
-/// <reference path="../globals.d.ts" />
+ <reference path="../globals.d.ts" />*/
 
 (function SkipVideo() {
 	Spicetify.Player.addEventListener("songchange", () => {
